@@ -29,7 +29,7 @@ const levels = [
   {
     name: "Palavras F",
     characters: [
-      'dado', 'dente', 'dedo', 'dinheiro', 'disco',
+      'fada', 'feno', 'dedo', 'dinheiro', 'disco',
       'doce', 'dado', 'dama', 'danca', 'dino'
     ]
   }
