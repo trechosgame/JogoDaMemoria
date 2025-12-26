@@ -15,7 +15,7 @@ const levels = [
   {
     name: "Palavras C",
     characters: [
-      'calca', 'calor', 'cama', 'canha', 'canoa',
+      'calca', 'calor', 'cama', 'canhao', 'canoa',
       'casa', 'cerca', 'cesta', 'circo', 'cubo'
     ]
   },
