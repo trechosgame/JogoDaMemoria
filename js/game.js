@@ -150,7 +150,7 @@ const nextLevel = () => {
 }
 
 window.onload = () => {
-  spanPlayer.innerHTML = localStorage.getItem('player') || "Jogador";
+  spanPlayer.innerHTML = localStorage.getItem('player') || " ";
   loadGame();
   startTimer();
 }
